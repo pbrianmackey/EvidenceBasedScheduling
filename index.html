@@ -1,0 +1,32 @@
+<html>
+<head>
+  <script type="text/javascript" href="https://code.jquery.com/jquery-2.2.0.min.js" />
+</head>
+<body>
+  <h1>
+  Evidence Based Estimation
+  </h1>
+  <p>
+  Input a set of actual velocities your team has taken over time.
+  Then give the estimated size of the next major milestone.
+  This application will tell you the projected time it will take to complete the milestone.
+  </p>
+  <label>Actual Velocities </label>
+  <input id="velocities" style="width: 200px;" value="10, 8, 10, 10, 6, 12, 7, 10, 12, 12"/>
+  <br /><br />
+  <label>size of milestone</label>
+  <input id="milestoneSize" value="100" />
+  <br /><br />
+  <label>Length of sprint in weeks</label>
+  <input id="lengthOfSprint" value="1" />
+  <br /><br />
+
+  <button id="runApp">
+  Calculate
+  </button>
+  <h2>
+  Estimation given these numbers
+  </h2>
+  <label id="output" />
+</body>
+</html>
