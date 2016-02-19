@@ -21,4 +21,4 @@ EBSv2.xlsm is an Excel Macro enabled document.  Open EBSv2.xlsm and input:
 
 Results will be printed in Column F:
 
-[Sample Excel Output](https://octodex.github.com/images/yaktocat.png)
+![Sample Excel Output](https://github.com/pbrianmackey/EvidenceBasedScheduling/blob/master/SampleOutput.png)
