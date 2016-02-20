@@ -23,6 +23,8 @@ Results will be printed in Column F:
 
 Although the algorithm does reach "100%" probability, we can never truly know if a project will actually complete by a certain deadline.  I am considering changing "100%" to "statistically it doesn't make sense to calculate beyond this point"...or something.  I'm open to suggetisions/improvements and code submissions.
 
+The good news is that when a deadline is missed that will impact velocity and therefore become an integral part of the next estimation.
+
 ####Other
 
 There is a javascript based version of [this application](https://jsfiddle.net/smacky311/ppufntd2/) available on jsfiddle.
