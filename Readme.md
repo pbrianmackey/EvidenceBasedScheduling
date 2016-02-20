@@ -17,3 +17,7 @@ EBSv2.xlsm is an Excel Macro enabled document.  Open EBSv2.xlsm and input:
 Results will be printed in Column F:
 
 ![Sample Excel Output](https://github.com/pbrianmackey/EvidenceBasedScheduling/blob/master/SampleOutput.png)
+
+####Other
+
+There is a javascript based version of [this application](https://jsfiddle.net/smacky311/ppufntd2/) available on jsfiddle.
